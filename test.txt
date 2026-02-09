@@ -1,1 +1,2 @@
 This is the first commit
+Now I added changes, so this is not the intended commit
